@@ -1,6 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-# Xylophone
+# Xylophone by Sebastian
 
 ## Our Goal
 
